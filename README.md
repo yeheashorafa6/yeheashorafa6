@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yehea%20F.%20Shorafa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Scalable%20Applications%20with%20Node.js%20%26%20Next.js&descAlignY=57&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yehea%20F.%20Shorafa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Scalable%20Applications%20with%20Node.js%20%2526%20Next.js&descAlignY=57&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Node.js+%2B+Next.js+Engineer+%E2%9A%A1;Systems+Thinker+%2C+Not+Just+a+Coder+%F0%9F%A7%A0;Clean+Code+%2C+Real+Impact+%F0%9F%8E%AF" alt="Typing SVG" />
 
