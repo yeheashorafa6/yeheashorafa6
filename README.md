@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yehea%20F.%20Shorafa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Scalable%20Applications%20with%20Node.js%20%2526%20Next.js&descAlignY=57&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yehea%20F.%20Shorafa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Applications%20with%20Node.js%20%26%20Next.js&descAlignY=57&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Node.js+%2B+Next.js+Engineer+%E2%9A%A1;Systems+Thinker+%2C+Not+Just+a+Coder+%F0%9F%A7%A0;Clean+Code+%2C+Real+Impact+%F0%9F%8E%AF" alt="Typing SVG" />
 
@@ -91,16 +91,13 @@
 
 <div align="center">
 
-<a href="https://github.com/yeheashorafa6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeheashorafa6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeheashorafa6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=6" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeheashorafa6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeheashorafa6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=6" />
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=yeheashorafa6&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="500"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=yeheashorafa6&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="500"/>
 
 </div>
 
