@@ -1,14 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yehea%20F.%20Shorafa&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Systems-Oriented%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yehea%20F.%20Shorafa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Scalable%20Applications%20with%20Node.js%20%26%20Next.js&descAlignY=57&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Apps+%F0%9F%9A%80;Node.js+%2B+Next.js+Developer+%E2%9A%A1;Systems+Thinker+%2C+Not+Just+a+Coder+%F0%9F%A7%A0;Clean+Code+%2C+Real+Impact+%F0%9F%8E%AF" alt="Typing SVG" />
+</div>
 
-<br/>
+<div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/yeheashorafa6?style=for-the-badge&color=00D9FF&labelColor=0D1117&logo=github)](https://github.com/yeheashorafa6)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Apps+%F0%9F%9A%80;Node.js+%2B+Next.js+Developer+%E2%9A%A1;Systems+Thinker+%2C+Not+Just+a+Coder+%F0%9F%A7%A0;Clean+Code+%2C+Real+Impact+%F0%9F%8E%AF;Always+Learning+%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+
+</div>
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/yehea-shorafa/)
-[![Profile Views](https://komarev.com/ghpvc/?username=yeheashorafa6&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/yeheashorafa6)
+[![GitHub](https://img.shields.io/badge/GitHub-yeheashorafa6-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/yeheashorafa6)
+[![Profile Views](https://komarev.com/ghpvc/?username=yeheashorafa6&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS&labelColor=0D1117)](https://github.com/yeheashorafa6)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
@@ -24,7 +38,7 @@
 - ⚡ Learning **Redis** for caching strategies and session optimization.
 - 📐 Passionate about **clean architecture**, **RESTful design**, and **real-world business logic**.
 
-> **I think in systems, not pages. I build solutions that scale, not just features that work.**
+> 💡 **I think in systems, not pages. I build solutions that scale, not just features that work.**
 
 ---
 
@@ -93,18 +107,40 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeheashorafa6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true&include_all_commits=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeheashorafa6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeheashorafa6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeheashorafa6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=8" />
 
 </div>
 
 <div align="center">
+
 <img src="https://streak-stats.demolab.com?user=yeheashorafa6&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff&dates=888888" width="600"/>
+
 </div>
 
+---
+
+## 📈 Activity Graph
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yeheashorafa6&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+
+[![Yehea's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yeheashorafa6&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=FF6B6B&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeheashorafa6/yeheashorafa6/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeheashorafa6/yeheashorafa6/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yeheashorafa6/yeheashorafa6/output/github-snake.svg" />
+</picture>
+
 </div>
 
 ---
