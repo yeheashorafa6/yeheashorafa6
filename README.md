@@ -101,7 +101,7 @@ Docker & Redis Enthusiast
 |:--|:--|
 | 🧠 **Rank** | 4th Nationwide — strong problem-solving & algorithmic skills |
 | 👑 **Team Leader** | Yehea F. Shorafa |
-| 👥 **Team Members** | Ahmad Al-Khatib · Yousef M. Y. Al-Sabbah · Yahya Al-Sharafa |
+| 👥 **Team Members** | Yehea F. Shorafa . Ahmad Al-Khatib · Yousef M. Y. Al-Sabbah |
 | 🧑‍🏫 **Supervisor** | Dr. Ashraf Younis Mughari |
 | 📅 **Date** | April 24, 2025 |
 
