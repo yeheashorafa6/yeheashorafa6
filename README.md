@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yehea%20F.%20Shorafa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20Scalable%20Applications%20with%20Node.js%20%2526%20Next.js&descAlignY=57&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yehea%20F.%20Shorafa&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Applications%20with%20Node.js%20%26%20Next.js&descAlignY=55&descSize=15" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;Node.js+%2B+Next.js+Engineer+%E2%9A%A1;Systems+Thinker+%2C+Not+Just+a+Coder+%F0%9F%A7%A0;Clean+Code+%2C+Real+Impact+%F0%9F%8E%AF" alt="Typing SVG" />
 
@@ -46,6 +46,7 @@
 ### 🗄️ Database & Infrastructure
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -54,36 +55,54 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Current Projects
+## 💼 Current Work
 
 <div align="center">
 
 | 🔥 Project | 📝 Description | 🏷️ Stack |
-|:----------:|:--------------:|:--------:|
-| **🛒 E-Commerce Platform** | Full stack store with cart, auth & orders | Next.js · Node.js · MySQL |
-| **🔐 Auth System** | JWT-based auth with roles & refresh tokens | Node.js · Express · Prisma |
-| **⚡ API Boilerplate** | Scalable REST API starter with clean architecture | Node.js · Redis · Docker |
+|:---:|:---|:---:|
+| **🐄 Halaly Platform** | Multi-service platform for breeders & farmers with eCommerce & online courses | WooCommerce · LMS · PHP · JS |
+| **🎨 MAHSTUDIO** | Corporate website with secure admin dashboard | Next.js · Node.js · MongoDB · REST API |
+| **⚙️ Services Dashboard** | Manage services with add, edit, delete features | Next.js · Tailwind · Prisma · MySQL |
+| **📝 Blog Platform** | Dynamic blogging platform with media & category management | Next.js · Tailwind · Prisma · Cloudinary |
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
 <div align="center">
 
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white)
-![Advanced MySQL](https://img.shields.io/badge/Advanced_MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Next.js Advanced](https://img.shields.io/badge/Next.js_Advanced-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-FF0055?style=for-the-badge&logo=framer&logoColor=white)
+![Prisma Advanced](https://img.shields.io/badge/Prisma_Advanced-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary_Optimization-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-FF6B6B?style=for-the-badge&logo=buffer&logoColor=white)
 
 </div>
+
+---
+
+## 🏆 Achievements
+
+**🥇 1st Place – Gaza Region, Hebron CodeJam (HCJ 2025)**
+
+> Led the Islamic University of Gaza's team to **first place** among universities in the Gaza Strip in the Hebron CodeJam 2025 competition held at Hebron University, with participation from **40+ student teams** across Palestine.
+
+| | |
+|:--|:--|
+| 🧠 **Rank** | 4th Nationwide — strong problem-solving & algorithmic skills |
+| 👑 **Team Leader** | Yehea F. Shorafa |
+| 👥 **Team Members** | Ahmad Al-Khatib · Yousef M. Y. Al-Sabbah · Yahya Al-Sharafa |
+| 🧑‍🏫 **Supervisor** | Dr. Ashraf Younis Mughari |
+| 📅 **Date** | April 24, 2025 |
 
 ---
 
@@ -91,16 +110,13 @@
 
 <div align="center">
 
-<a href="https://github.com/yeheashorafa6">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeheashorafa6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeheashorafa6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=6" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeheashorafa6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeheashorafa6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=6" />
 
 <br/><br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=yeheashorafa6&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="500"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=yeheashorafa6&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="500"/>
 
 </div>
 
