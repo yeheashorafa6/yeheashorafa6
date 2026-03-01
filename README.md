@@ -71,7 +71,7 @@ Docker & Redis Enthusiast
 | **🐄 Halaly Platform** | Multi-service platform for breeders & farmers with eCommerce & online courses | WooCommerce · LMS · PHP · JS |
 | **🎨 MAHSTUDIO** | Corporate website with secure admin dashboard | Next.js · Node.js · MongoDB · REST API |
 | **⚙️ Services Dashboard** | Manage services with add, edit, delete features | Next.js · Tailwind · Prisma · MySQL |
-| **📝 Blog Platform** | Dynamic blogging platform with media & category management | Next.js · Tailwind · Prisma · Cloudinary |
+| **📝 Blog Platform** | Dynamic blogging platform with media & category management | Next.js · Node.js · Tailwind · Prisma · Cloudinary |
 
 </div>
 
