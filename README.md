@@ -110,13 +110,17 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeheashorafa6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeheashorafa6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=6" />
+<a href="https://github.com/yeheashorafa6">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeheashorafa6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=FF6B6B&text_color=ffffff&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeheashorafa6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&langs_count=6" />
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=yeheashorafa6&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="500"/>
+<a href="https://github.com/yeheashorafa6">
+  <img src="https://streak-stats.demolab.com?user=yeheashorafa6&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="500"/>
+</a>
 
 </div>
 
